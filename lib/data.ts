@@ -96,10 +96,8 @@ export const projectsData = [
   {
     title: "Next Multistep Form",
     description:
-      "This next.js project demonstrates multistep form with client and server side validations. Concepts like react server actions and hooks have been implemented.",
+      "This next.js project demonstrates multistep form with client and server side validations.",
     tags: [
-      "React",
-      "Next.js",
       "React-Hook-Form",
       "Tailwind",
       "Zod",
