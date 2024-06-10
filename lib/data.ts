@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { FaLanguage } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import { CgWebsite } from "react-icons/cg";
-import corpcommentImg from "@/public/corpcomment.png";
+import nextMultistepFormImg from "@/public/nextmultistepform.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
@@ -94,11 +94,20 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Next Multistep Form",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "This next.js project demonstrates multistep form with client and server side validations. Concepts like react server actions and hooks have been implemented.",
+    tags: [
+      "React",
+      "Next.js",
+      "React-Hook-Form",
+      "Tailwind",
+      "Zod",
+      "Server Actions",
+      "React Hooks",
+      "Framer Motion",
+    ],
+    imageUrl: nextMultistepFormImg,
   },
   {
     title: "rmtDev",
