@@ -101,10 +101,9 @@ export const projectsData = [
     imageUrl: nextMultistepFormImg,
   },
   {
-    title: "rmtDev",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+    title: "Artist Finder",
+    description: "Demo Html-CSS project with responsive design.",
+    tags: ["Html", "Css", "animation", "responsive"],
     imageUrl: rmtdevImg,
   },
   {
