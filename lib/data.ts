@@ -5,7 +5,7 @@ import { FaLanguage } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import { CgWebsite } from "react-icons/cg";
 import nextMultistepFormImg from "@/public/nextmultistepform.png";
-import rmtdevImg from "@/public/rmtdev.png";
+import artistfinder from "@/public/artistfinder.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
@@ -104,7 +104,7 @@ export const projectsData = [
     title: "Artist Finder",
     description: "Demo Html-CSS project with responsive design.",
     tags: ["Html", "Css", "animation", "responsive"],
-    imageUrl: rmtdevImg,
+    imageUrl: artistfinder,
   },
   {
     title: "Word Analytics",
